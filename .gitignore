@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+uploads/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.env.local
+.env*.local
+.artifacts/
+.idea/
+.vscode/
+*.deb

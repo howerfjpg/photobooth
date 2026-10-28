@@ -1,0 +1,11 @@
+{
+  "name": "Vintage Photobooth Kiosk",
+  "description": "Aplicación kiosco para photobooth retro de eventos con captura, impresión y descarga digital.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
